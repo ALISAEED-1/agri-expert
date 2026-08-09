@@ -1,16 +1,25 @@
-# interntask_2
+# Agri-Expert — Flutter Agricultural Advisory App
 
-A new Flutter project.
+A mobile advisory app built for agricultural 
+users. Crop guidance, expert recommendations, 
+and agricultural data — designed for real-world 
+constraints including low-bandwidth environments 
+and older devices.
+
+## Screenshots
+[your screenshots here]
+
+## Features
+- Crop advisory and guidance
+- Expert recommendation system
+- Agricultural data display
+- Optimized for low-bandwidth connections
+- Clean, accessible UI for non-technical users
+
+## Tech Stack
+- Flutter & Dart
+- Firebase
+- REST APIs
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Clone the repo and run flutter pub get.
